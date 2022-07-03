@@ -197,6 +197,10 @@ PublishScripts/
 csx/
 *.build.csdef
 
+# Visual Studio Code build folder
+bin
+obj
+
 # Microsoft Azure Emulator
 ecf/
 rcf/
